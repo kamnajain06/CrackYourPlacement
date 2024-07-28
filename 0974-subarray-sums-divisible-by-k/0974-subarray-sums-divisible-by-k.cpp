@@ -1,7 +1,7 @@
 class Solution {
 public:
     int subarraysDivByK(vector<int>& nums, int k) {
-        map<int, int> mpp;
+        unordered_map<int, int> mpp;
         int preSum = 0;
         int cnt = 0;
         mpp[0]=1;
