@@ -16,10 +16,7 @@ public:
         if(root == NULL) return;
 
         sum += root->val;
-        
-        if(mpp.find(sum-targetSum) != mpp.end()){
-            cnt += mpp[sum - targetSum];
-        } 
+        cnt += mpp[sum - targetSum]; 
         mpp[sum]++;
 
         traversal(root->left, sum, targetSum, cnt);
