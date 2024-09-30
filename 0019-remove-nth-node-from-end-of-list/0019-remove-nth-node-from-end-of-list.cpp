@@ -6,20 +6,17 @@ public:
         if(head->next == NULL && n == 1) return NULL;
         ListNode* next = head->next;
 
-        while(next != NULL){
-            curr->next = prev;
-            prev = curr;
-            curr = next;
-            next = curr->next;
-        }
-        curr->next = prev;
+        int cnt = 0;
 
-        prev = NULL;
-        head = curr;
-        next = curr->next;
+        while(curr != NULL){
+            cnt++;
+            curr = curr->next;
+        }
+        curr = head;
         
-        n--;
-        while(n-- > 0){
+        int nFromFront = cnt - n + 1;
+        nFromFront--;
+        while(nFromFront-- > 0){
             prev = curr;
             curr = next;
             next = curr->next;
@@ -31,19 +28,6 @@ public:
         }else{
             prev->next = next;
         }
-
-        prev = NULL;
-        curr = head;
-        next = head->next;
-
-        while(next != NULL){
-            curr->next = prev;
-            prev = curr;
-            curr = next;
-            next = curr->next;
-        }
-        curr->next = prev;
-        head = curr;
         
         return head;
     }
