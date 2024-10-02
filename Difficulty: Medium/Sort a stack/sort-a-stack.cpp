@@ -50,18 +50,30 @@ public:
 
 /* The below method sorts the stack s 
 you are required to complete the below method */
+void sortHelper(stack<int> &s, int index){
+    stack<int> temp;
+    if(index == s.size()-1) return;
+    int mini = s.top();
+    s.pop();
+    while(index != s.size()){
+        int topEl = s.top();
+        s.pop();
+        if(topEl < mini){
+            temp.push(mini);
+            mini = topEl;
+        }else{
+            temp.push(topEl);
+        }
+    }
+    temp.push(mini);
+    while(!temp.empty()){
+        s.push(temp.top());
+        temp.pop();
+    }
+    sortHelper(s,index+1);
+}
 void SortedStack :: sort()
 {
-   vector<int> a;
-   while(!s.empty()){
-       a.push_back(s.top());
-       s.pop();
-   }
-   std::sort(a.begin(), a.end());
-   int n = 0;
-   while(n != a.size()){
-       s.push(a[n]);
-       n++;
-   }
+   sortHelper(s,0);
    return;
 }
