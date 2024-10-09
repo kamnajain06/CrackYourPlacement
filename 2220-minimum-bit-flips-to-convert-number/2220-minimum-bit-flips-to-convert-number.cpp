@@ -1,8 +1,12 @@
 class Solution {
 public:
     int minBitFlips(int start, int goal) {
-        int xorR = start^goal;
-        int count = __builtin_popcount(xorR);
-        return count;
+        int xorr = start^goal;
+        int cnt = 0;
+        while(xorr >0){
+            if(xorr&1) cnt++;
+            xorr = xorr>>1;
+        }
+        return cnt;
     }
 };
