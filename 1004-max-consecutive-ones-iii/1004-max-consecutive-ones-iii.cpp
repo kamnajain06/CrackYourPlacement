@@ -8,21 +8,21 @@ public:
         while(j < nums.size() && i <= j){
             if(nums[j] == 1){
                 j++;
-            }else if(nums[j] == 0 && temp > 0){
-                temp--;
-                j++;
-            }else if(nums[j] == 0 && temp <= 0){
-                while(nums[i] == 1) i++;
-                if(nums[i] == 0){
-                    if(k > 0){
-                        temp++;
-                        i++;
-                    }else{
-                        i++;
-                        j++;
+            }else if(nums[j] == 0){
+                if(temp > 0){
+                    temp--;
+                    j++;
+                }else{
+                    if(nums[i] == 0){
+                        if(k > 0){
+                            temp++; 
+                        }else{
+                            j++;
+                        }
                     }
+                    i++;
                 }
-            } 
+            }
             ans = max(ans, j-i);
         }
         return ans;
