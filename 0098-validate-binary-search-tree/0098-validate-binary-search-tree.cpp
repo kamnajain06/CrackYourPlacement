@@ -23,7 +23,7 @@ public:
             }
         }
         trav.push_back(root->val);
-        inorder(root->right,trav);
+        if(flag)inorder(root->right,trav);
         return;
     }
     bool isValidBST(TreeNode* root) {
