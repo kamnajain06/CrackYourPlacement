@@ -7,6 +7,7 @@ using namespace std;
 class Solution {
   public:
     // Function to detect cycle in an undirected graph.
+// DFS
     bool dfs(int node, vector<vector<int>>& adj, vector<int>& visited, int parent){
         visited[node] = 1;
         for(auto it:adj[node]){
@@ -28,6 +29,31 @@ class Solution {
         }
         return false;
     }
+
+    // BFS
+    // queue<pair<int,int>> q;
+    //     int n = adj.size();
+    //     vector<int> visited(n,0);
+    //     for(int i=0; i<n; i++){
+    //         if(visited[i] == 0){
+    //             q.push({i,-1});
+    //             visited[i] = 1;
+    //             while(!q.empty()){
+    //                 int val = q.front().first;
+    //                 int parent = q.front().second;
+    //                 q.pop();
+    //                 for(auto it:adj[val]){
+    //                     if(visited[it] == 0){
+    //                         q.push({it,val});
+    //                         visited[it] = 1;
+    //                     }else if(it != parent){
+    //                         return true;
+    //                     }
+    //                 }
+    //             }
+    //         }
+    //     }
+    //     return false;
 };
 
 //{ Driver Code Starts.
