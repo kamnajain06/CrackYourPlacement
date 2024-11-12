@@ -1,6 +1,6 @@
 # 🚀 Embarked on a Journey of DSA
 
-Current Status : Solved 200 problems on LeetCode.
+Current Status : Solved 200+ problems on LeetCode and 50+ problems on GFG.
 
 Stepping into the wild world of **Data Structures and Algorithms** 🧠🔍, I'm geared up to crack problems and master the art of efficient coding. From solving mind-bending challenges to uncovering the beauty of algorithms, it's all about leveling up my problem-solving skills 💪.
 
