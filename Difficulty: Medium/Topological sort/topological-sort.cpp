@@ -6,29 +6,30 @@ using namespace std;
 // } Driver Code Ends
 class Solution {
   public:
-    void dfs(int node,vector<vector<int>>& adj, vector<int> &visited, stack<int> &st){
-        visited[node] = 1;
-        for(auto it:adj[node]){
-            if(visited[it] == 0){
-                dfs(it,adj,visited,st);
-            }
-        }
-        st.push(node);
-        return;
-    }
     vector<int> topologicalSort(vector<vector<int>>& adj) {
+        queue<int> q;
         vector<int> ans;
-        stack<int> st;
-        vector<int> visited(adj.size(),0);
-        
+        vector<int> indegree(adj.size(),0);
         for(int i=0; i<adj.size(); i++){
-            if(visited[i] == 0){
-                dfs(i,adj,visited,st);
+            for(auto it:adj[i]){
+                indegree[it]+=1;
             }
         }
-        while(!st.empty()){
-            ans.push_back(st.top());
-            st.pop();
+        for(int i=0; i<adj.size(); i++){
+            if(indegree[i] == 0) q.push(i);
+        }
+        while(!q.empty()){
+            int val = q.front();
+            ans.push_back(val);
+            q.pop();
+            for(auto it:adj[val]){
+                if(indegree[it] != 0){
+                    indegree[it] -= 1;
+                    if(indegree[it] == 0){
+                        q.push(it);
+                    }
+                }
+            }
         }
         return ans;
     }
