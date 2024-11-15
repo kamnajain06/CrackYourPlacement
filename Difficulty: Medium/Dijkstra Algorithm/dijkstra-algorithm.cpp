@@ -9,6 +9,7 @@ class Solution {
   public:
     // Function to find the shortest distance of all the vertices
     // from the source vertex src.
+// Using Priority Queue
     vector<int> dijkstra(vector<vector<pair<int, int>>> &adj, int src) {
         priority_queue<pair<int,int>,vector<pair<int,int>>, greater<pair<int,int>>> q;
         vector<int> dist(adj.size(),INT_MAX);
@@ -27,6 +28,26 @@ class Solution {
             if(dist[i] == INT_MAX) dist[i] = -1;
         }
         return dist;
+      
+// Using Set (most efficient since it removes the unnecessary elements)
+        // set<pair<int,int>> st;
+        // vector<int> dist(adj.size(),INT_MAX);
+        // st.insert({0,src});
+        // dist[src] = 0;
+        // while(!st.empty()){
+        //     auto val = *(st.begin());
+        //     int node = val.second;
+        //     int distance = val.first;
+        //     st.erase(val);
+        //     for(auto it:adj[node]){
+        //         if(distance+it.second < dist[it.first]){
+        //             if(dist[it.first] != INT_MAX) st.erase({dist[it.first],it.first});
+        //             dist[it.first] = distance+it.second;
+        //             st.insert({distance+it.second,it.first});
+        //         }
+        //     }
+        // }
+        // return dist;
     }
 };
 
