@@ -3,16 +3,16 @@ public:
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
         int n = grid.size();
         vector<vector<int>> dist(n, vector<int> (n,INT_MAX));
-        queue< pair< pair<int,int>, int> > q;
+        priority_queue< pair< int, pair<int,int>>, vector<pair< int, pair<int,int>>>, greater<pair< int, pair<int,int>>>> q;
         if(grid[0][0] != 0) return -1;
-        q.push({{0,0}, 1});
+        q.push({1,{0,0}});
         dist[0][0] = 1;
         int direc[8][2] = {{0,1},{0,-1},{-1,0},{1,0},{-1,-1},{1,1},{-1,1},{1,-1}};
         while(!q.empty()){
-            auto it = q.front();
-            int row = it.first.first;
-            int col = it.first.second;
-            int distance = it.second;
+            auto it = q.top();
+            int row = it.second.first;
+            int col = it.second.second;
+            int distance = it.first;
             q.pop();
             for(int i=0; i<8; i++){
                 int newRow = row + direc[i][0];
@@ -20,7 +20,7 @@ public:
                 if(newRow >= 0 && newRow < n && newCol >=0 && newCol < n && grid[newRow][newCol] == 0){
                     if(dist[newRow][newCol] > distance + 1){
                         dist[newRow][newCol] = distance + 1;
-                        q.push({{newRow,newCol},dist[newRow][newCol]});
+                        q.push({dist[newRow][newCol], {newRow,newCol}});
                     }
                 }
             }
