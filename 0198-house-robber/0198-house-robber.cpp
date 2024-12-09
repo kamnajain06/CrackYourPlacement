@@ -9,12 +9,16 @@ public:
     }
     int rob(vector<int>& nums) {
         int n = nums.size();
-        vector<int> dp(n+1, -1);
-        dp[0] = nums[0];
+        // // vector<int> dp(n+1, -1);
+        // dp[0] = nums[0];
+        int prev2 = 0;
+        int prev = nums[0];
         for(int i=1; i<n; i++){
-            int pick = i-2 >= 0 ? nums[i] + dp[i-2] : nums[i];
-            dp[i] = max(pick, dp[i-1]);
+            int pick = i-2 >= 0 ? nums[i] + prev2 : nums[i];
+            int curri = max(pick, prev);
+            prev2 = prev;
+            prev = curri;
         }
-        return dp[n-1];
+        return prev;
     }
 };
