@@ -10,45 +10,49 @@ public:
         }
     int minimumTotal(vector<vector<int>>& triangle) {
         int n = triangle.size();
-        vector< vector<int> > dp(n, vector<int> (n, -1));
-        return fun(0, 0, n, triangle, dp);
+        // vector< vector<int> > dp(n, vector<int> (n, -1));
+        // return fun(0, 0, n, triangle, dp);
 
-//         // vector< vector<int> > dp(n, vector<int> (n, 0));
+//         Tabulation
+        vector< vector<int> > dp(n, vector<int> (n, 0));
+        for(int i=0; i<n ; i++){
+            for(int j=0; j<=i; j++){
+                if(i == 0 && j == 0) dp[i][j] = triangle[i][j];
+                else{
+                    int up = i - 1 >= j ? triangle[i][j] + dp[i-1][j] : INT_MAX;
+                    int left = i - 1 >= j - 1 && j - 1 >= 0 ? triangle[i][j] + dp[i-1][j-1] : INT_MAX;
+
+                    dp[i][j] = min(up, left);
+                }
+            }
+        }
+        int ans = INT_MAX;
+        for(auto it:dp[n-1]){
+            ans = min(ans, it);
+        }
+        return ans;
+
+//         SPACE OPTIMIZATION
+
 //         vector<int> dp(n, 0);
-//         for(int i=0; i<n ; i++){
+//         // dp[0] = triangle[0][0];
+//         for(int i=0; i<m ; i++){
 //             vector<int> temp(n, 0);
-//             for(int j=0; j<=i; j++){
-//                 if(i == 0 && j == 0) temp[j] = triangle[i][j];
+//             for(int j=0; j<i; j++){
+//                 if(i == 0 && j == 0) temp[j] = triangle[0][0];
 //                 else{
-//                     int up = i - 1 >= j ? triangle[i][j] + dp[j] : INT_MAX;
-//                     int left = i - 1 >= j - 1 && j - 1 >= 0 ? triangle[i][j] + dp[j-1] : INT_MAX;
+//                     int up = i - 1 >= 0 ? triangle[i][j] + dp[j] : INT_MAX;
+//                     int left = j-1 >= 0 ? triangle[i][j] + temp[j-1] : INT_MAX;
 
 //                     temp[j] = min(up, left);
 //                 }
-//                 dp = temp;
 //             }
+//             dp = temp;
 //         }
-//         // int ans = INT_MAX;
-//         // for(auto it:dp[n-1]){
-//         //     ans = min(ans, it);
-//         // }
-        return dp[n-1][n-1];
-
-        // vector<int> dp(n, 0);
-        // // dp[0] = triangle[0][0];
-        // for(int i=0; i<m ; i++){
-        //     vector<int> temp(n, 0);
-        //     for(int j=0; j<i; j++){
-        //         if(i == 0 && j == 0) temp[j] = triangle[0][0];
-        //         else{
-        //             int up = i - 1 >= 0 ? triangle[i][j] + dp[j] : INT_MAX;
-        //             int left = j-1 >= 0 ? triangle[i][j] + temp[j-1] : INT_MAX;
-
-        //             temp[j] = min(up, left);
-        //         }
-        //     }
-        //     dp = temp;
-        // }
-        // return dp[n-1];
+            // int ans = INT_MAX;
+            // for(auto it:dp[n-1]){
+            //     ans = min(ans, it);
+            // }
+            // return ans;
     }
 };
