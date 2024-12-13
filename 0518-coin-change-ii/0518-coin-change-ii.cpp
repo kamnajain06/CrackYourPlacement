@@ -18,17 +18,20 @@ public:
         // return fun(0, amount, coins, n, dp);
 
         // TABULATION
-        vector<vector<long long>> dp(n, vector<long long> (amount+1, 0));
-        for(int row = 0; row<n; row++){
-            dp[row][0] = 1;
-        }
+        // vector<vector<long long>> dp(n, vector<long long> (amount+1, 0));
+        vector<long long> dp(amount+1, 0);
+        dp[0] = 1;
+        
         for(int row=0; row<n; row++){
+            vector<long long> temp(amount+1, 0);
+            temp[0] = 1;
             for(int sum=1; sum<= amount; sum++){
-                int pick = sum >= coins[row] ? dp[row][sum - coins[row]] : 0;
-                int skip = (row > 0) ? dp[row-1][sum] : 0;
-                dp[row][sum] = (long long) pick +  (long long)skip;
+                int pick = sum >= coins[row] ? temp[sum - coins[row]] : 0;
+                int skip = (row > 0) ? dp[sum] : 0;
+                temp[sum] = (long long) pick +  (long long)skip;
             }
+            dp = temp;
         }
-        return dp[n-1][amount];
+        return dp[amount];
     }
 };
