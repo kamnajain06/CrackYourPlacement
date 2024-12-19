@@ -31,20 +31,36 @@ public:
         //     }
         // }
         // return dp[n1][n2];
+
+//         vector<double> dp(n2+1, 0);
+//         dp[0] = 1;
+
+//         for(int i=1; i<=n1; i++){
+//             vector<double> temp(n2+1, 0);
+//             temp[0] = 1;
+//             for(int j=1; j<=n2; j++){
+//                 if(s[i-1] == t[j-1]){
+//                     temp[j] = dp[j-1] + dp[j];
+//                 }else{
+//                     temp[j] = dp[j];
+//                 }
+//             }
+//             dp = temp;
+//         }
+//         return (int)dp[n2];
+
         vector<double> dp(n2+1, 0);
         dp[0] = 1;
 
         for(int i=1; i<=n1; i++){
-            vector<double> temp(n2+1, 0);
-            temp[0] = 1;
-            for(int j=1; j<=n2; j++){
+            // vector<double> temp(n2+1, 0);
+            // temp[0] = 1;
+            for(int j=n2; j>=1; j--){
                 if(s[i-1] == t[j-1]){
-                    temp[j] = dp[j-1] + dp[j];
-                }else{
-                    temp[j] = dp[j];
+                    dp[j] = dp[j-1] + dp[j];
                 }
             }
-            dp = temp;
+            // dp = temp;
         }
         return (int)dp[n2];
     }
