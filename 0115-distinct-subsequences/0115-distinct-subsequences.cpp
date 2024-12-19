@@ -53,14 +53,11 @@ public:
         dp[0] = 1;
 
         for(int i=1; i<=n1; i++){
-            // vector<double> temp(n2+1, 0);
-            // temp[0] = 1;
             for(int j=n2; j>=1; j--){
                 if(s[i-1] == t[j-1]){
                     dp[j] = dp[j-1] + dp[j];
                 }
             }
-            // dp = temp;
         }
         return (int)dp[n2];
     }
