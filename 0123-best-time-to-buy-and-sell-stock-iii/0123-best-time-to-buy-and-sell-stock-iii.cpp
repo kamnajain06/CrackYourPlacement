@@ -14,22 +14,24 @@ public:
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
         // return fun(0, prices, n, 2, 1);
-        vector<vector<vector<int>>> dp(
-            n+1, vector<vector<int>>(2, vector<int>(3, 0)));
-
+        // vector<vector<vector<int>>> dp(
+        //     n+1, vector<vector<int>>(2, vector<int>(3, 0)));
+        vector<vector<int>> dp(2, vector<int>(3, 0));
+        vector<vector<int>> temp(2, vector<int>(3, 0));
         for (int i = n-1; i >= 0; i--) {
             for (int j = 0; j < 2; j++) {
                 for (int k = 1; k < 3; k++) {
                     if (j == 0) {
-                        dp[i][j][k] = max(prices[i] + dp[i + 1][1][k - 1],
-                                              dp[i + 1][0][k]);
+                        temp[j][k] = max(prices[i] + dp[1][k - 1],
+                                              dp[0][k]);
                     } else {
-                        dp[i][j][k] =
-                            max(-prices[i] + dp[i + 1][0][k], dp[i + 1][1][k]);
+                        temp[j][k] =
+                            max(-prices[i] + dp[0][k], dp[1][k]);
                     }
                 }
+                dp = temp;
             }
         }
-        return dp[0][1][2];
+        return temp[1][2];
     }
 };
