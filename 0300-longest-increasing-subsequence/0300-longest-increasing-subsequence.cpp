@@ -12,17 +12,20 @@ public:
         int n = nums.size();
         // vector<vector<int>> dp(n, vector<int> (n+1, -1));
         // return f(0, nums, n, dp, -1);
-        vector<vector<int>> dp(n+1, vector<int> (n+1, 0));
+        vector<int> dp(n+1,0);
+        vector<int> before(n+1,0);
+
         
         for(int i=n-1; i>=0; i--){
             for(int prev = i-1; prev >=-1; prev--){
                 if(prev == -1 || nums[i] > nums[prev]){
-                    dp[i][prev+1] = max( 1 + dp[i+1][i+1], dp[i+1][prev+1]);
+                    before[prev+1] = max( 1 + dp[i+1], dp[prev+1]);
                 }else{
-                    dp[i][prev+1] = dp[i+1][prev+1];
+                    before[prev+1] = dp[prev+1];
                 }
             }
+            dp = before;
         }
-        return dp[0][0];
+        return before[0];
     }
 };
