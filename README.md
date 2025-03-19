@@ -23,6 +23,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | ------- |
 | [0029-divide-two-integers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0342-power-of-four) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -41,6 +42,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0029-divide-two-integers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0342-power-of-four) |
 ## Queue
 |  |
 | ------- |
@@ -54,4 +56,5 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | ------- |
 | [0231-power-of-two](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
