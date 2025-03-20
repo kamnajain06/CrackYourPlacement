@@ -13,6 +13,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2478-longest-nice-subarray) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0342-power-of-four](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0342-power-of-four) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2478-longest-nice-subarray) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
 |  |
@@ -57,4 +59,12 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0231-power-of-two](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0342-power-of-four) |
+## Union Find
+|  |
+| ------- |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Graph
+|  |
+| ------- |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 <!---LeetCode Topics End-->
