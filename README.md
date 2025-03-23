@@ -66,5 +66,18 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Graph
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Topological Sort
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
