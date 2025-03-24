@@ -85,4 +85,12 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 |  |
 | ------- |
 | [3430-count-days-without-meetings](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3430-count-days-without-meetings) |
+## String
+|  |
+| ------- |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Backtracking
+|  |
+| ------- |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 <!---LeetCode Topics End-->
