@@ -13,6 +13,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | ------- |
 | [0729-my-calendar-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0967-minimum-falling-path-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2478-longest-nice-subarray) |
 | [2690-house-robber-iv](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2690-house-robber-iv) |
@@ -77,6 +78,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Dynamic Programming
 |  |
 | ------- |
+| [0967-minimum-falling-path-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0967-minimum-falling-path-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 ## Topological Sort
@@ -120,4 +122,8 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | ------- |
 | [0729-my-calendar-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
+## Matrix
+|  |
+| ------- |
+| [0967-minimum-falling-path-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0967-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
