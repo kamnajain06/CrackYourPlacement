@@ -20,6 +20,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2690-house-robber-iv](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3001-apply-operations-to-maximize-score) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -56,6 +57,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0326-power-of-three](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0342-power-of-four) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3001-apply-operations-to-maximize-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3001-apply-operations-to-maximize-score) |
 ## Queue
 |  |
 | ------- |
@@ -101,6 +103,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3430-count-days-without-meetings) |
 ## String
 |  |
@@ -149,4 +152,20 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3001-apply-operations-to-maximize-score) |
+## Greedy
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3001-apply-operations-to-maximize-score) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3001-apply-operations-to-maximize-score) |
+## Number Theory
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
