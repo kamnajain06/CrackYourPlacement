@@ -28,6 +28,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Bit Manipulation
@@ -108,6 +109,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## String
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Backtracking
 |  |
@@ -143,6 +145,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Two Pointers
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Breadth-First Search
 |  |
@@ -159,6 +162,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
