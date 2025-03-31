@@ -18,6 +18,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [2308-divide-array-into-equal-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2478-longest-nice-subarray) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3001-apply-operations-to-maximize-score) |
@@ -103,6 +104,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3430-count-days-without-meetings) |
@@ -155,6 +157,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2681-put-marbles-in-bags) |
 ## Stack
 |  |
 | ------- |
@@ -163,6 +166,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0768-partition-labels) |
+| [2681-put-marbles-in-bags](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
