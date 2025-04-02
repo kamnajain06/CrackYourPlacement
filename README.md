@@ -15,6 +15,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0967-minimum-falling-path-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2262-solving-questions-with-brainpower](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2478-longest-nice-subarray) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -92,6 +93,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | ------- |
 | [0967-minimum-falling-path-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0967-minimum-falling-path-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2262-solving-questions-with-brainpower) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 ## Topological Sort
 |  |
