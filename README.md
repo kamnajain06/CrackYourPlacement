@@ -22,6 +22,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [2690-house-robber-iv](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3001-apply-operations-to-maximize-score) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
