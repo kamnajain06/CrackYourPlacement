@@ -31,6 +31,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0768-partition-labels](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Bit Manipulation
 |  |
 | ------- |
