@@ -45,7 +45,6 @@ public:
         vector<bool> dp(target + 1, false);
         dp[0] = true;
 
-        if(nums[0] <= target) dp[nums[0]] = true;
 
         for(int i=1; i<n; i++){
             vector<bool> temp(target+1, false);
