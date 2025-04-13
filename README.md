@@ -71,6 +71,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0342-power-of-four](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2998-count-symmetric-integers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3001-apply-operations-to-maximize-score) |
@@ -90,6 +91,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0231-power-of-two](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0342-power-of-four) |
+| [2050-count-good-numbers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2050-count-good-numbers) |
 ## Union Find
 |  |
 | ------- |
