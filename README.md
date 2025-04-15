@@ -24,6 +24,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2262-solving-questions-with-brainpower](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2262-solving-questions-with-brainpower) |
+| [2280-count-good-triplets-in-an-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2478-longest-nice-subarray) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -153,6 +154,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | ------- |
 | [0729-my-calendar-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2280-count-good-triplets-in-an-array) |
 | [2690-house-robber-iv](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2690-house-robber-iv) |
 ## Design
 |  |
@@ -165,11 +167,13 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | ------- |
 | [0729-my-calendar-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2280-count-good-triplets-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -223,4 +227,16 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [2998-count-symmetric-integers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3548-find-the-count-of-good-integers) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3805-maximize-active-section-with-trade-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2280-count-good-triplets-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
