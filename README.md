@@ -15,6 +15,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0217-contains-duplicate](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0368-largest-divisible-subset](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
 | [0729-my-calendar-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0729-my-calendar-i) |
@@ -160,11 +161,13 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2280-count-good-triplets-in-an-array) |
@@ -234,6 +237,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
