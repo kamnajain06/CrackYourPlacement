@@ -25,6 +25,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2262-solving-questions-with-brainpower](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2262-solving-questions-with-brainpower) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2478-longest-nice-subarray) |
