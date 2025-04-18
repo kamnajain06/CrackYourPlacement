@@ -146,6 +146,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3805-maximize-active-section-with-trade-i) |
