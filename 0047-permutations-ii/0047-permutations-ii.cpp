@@ -6,7 +6,6 @@ public:
                 temp.push_back(nums[i]);
                 used[i] = 1;
                 if(temp.size() == n) st.insert(temp);
-                cout<<st.size()<<endl;
                 rec(n, nums, used, temp, st);
                 temp.pop_back();
                 used[i] = 0;
