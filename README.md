@@ -11,6 +11,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -201,6 +202,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0768-partition-labels](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0768-partition-labels) |
