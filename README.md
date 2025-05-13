@@ -18,6 +18,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0054-spiral-matrix](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -139,6 +140,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0967-minimum-falling-path-sum) |
