@@ -12,20 +12,13 @@ public:
             }else{
                 if(cnt1 == 0){
                     ele1 = nums[i];
-                    cnt1++;
+                    cnt1 = 1;
                 }else if(cnt2 == 0){
                     ele2 = nums[i];
-                    cnt2++;
+                    cnt2 = 1;
                 }else{
                     cnt1--;
                     cnt2--;
-                    if(cnt1 == 0){
-                        ele1 = nums[i];
-                        cnt1++;
-                    }else if(cnt2 == 0){
-                        ele2 = nums[i];
-                        cnt2++;
-                    }
                 }
             }
         }
