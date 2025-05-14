@@ -12,6 +12,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0047-permutations-ii) |
@@ -163,6 +164,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0217-contains-duplicate) |
@@ -230,6 +232,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0283-move-zeroes) |
