@@ -18,6 +18,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0047-permutations-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0118-pascals-triangle) |
@@ -166,6 +167,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0015-3sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0229-majority-element-ii) |
