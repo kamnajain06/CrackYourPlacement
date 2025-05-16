@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
+
+        // T.c = o(n^2) , s.c = O(n)
         vector<vector<int>> ans;
         int n = nums.size();
         sort(nums.begin(), nums.end());
