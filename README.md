@@ -21,6 +21,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0056-merge-intervals](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0217-contains-duplicate) |
@@ -169,6 +170,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0047-permutations-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0368-largest-divisible-subset) |
@@ -237,6 +239,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0018-4sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0768-partition-labels](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
