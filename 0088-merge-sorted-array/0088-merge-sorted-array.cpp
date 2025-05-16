@@ -16,11 +16,6 @@ public:
                 k--;
             }
         }
-        while(i >= 0){
-            nums1[k] = nums1[i];
-            i--;
-            k--;
-        }
         while(j >= 0){
             nums1[k] = nums2[j];
             j--;
