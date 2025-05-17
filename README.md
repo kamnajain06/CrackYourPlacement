@@ -24,6 +24,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0088-merge-sorted-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -151,6 +152,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0967-minimum-falling-path-sum) |
