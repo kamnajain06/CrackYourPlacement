@@ -31,6 +31,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0307-range-sum-query-mutable](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0368-largest-divisible-subset](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
+| [0493-reverse-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0729-my-calendar-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
@@ -200,6 +201,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Binary Search
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2280-count-good-triplets-in-an-array) |
@@ -216,12 +218,14 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
+| [0493-reverse-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2280-count-good-triplets-in-an-array) |
@@ -290,15 +294,18 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Divide and Conquer
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
+| [0493-reverse-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2280-count-good-triplets-in-an-array) |
 ## Simulation
 |  |
