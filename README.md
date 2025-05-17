@@ -34,6 +34,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0560-subarray-sum-equals-k](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0729-my-calendar-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
+| [0790-global-and-local-inversions](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0790-global-and-local-inversions) |
 | [0797-rabbits-in-forest](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 | [0967-minimum-falling-path-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0967-minimum-falling-path-sum) |
 | [1656-count-good-triplets](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1656-count-good-triplets) |
@@ -106,6 +107,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0326-power-of-three](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0368-largest-divisible-subset) |
+| [0790-global-and-local-inversions](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0790-global-and-local-inversions) |
 | [0797-rabbits-in-forest](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1993-sum-of-all-subset-xor-totals) |
