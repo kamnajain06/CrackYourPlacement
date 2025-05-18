@@ -192,6 +192,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -269,6 +270,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [1552-build-an-array-with-stack-operations](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1552-build-an-array-with-stack-operations) |
