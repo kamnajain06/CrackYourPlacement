@@ -216,6 +216,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
@@ -271,6 +272,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [1552-build-an-array-with-stack-operations](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1552-build-an-array-with-stack-operations) |
