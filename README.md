@@ -70,6 +70,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0128-longest-consecutive-sequence](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0229-majority-element-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
@@ -98,6 +99,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [2478-longest-nice-subarray](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -199,6 +201,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0038-count-and-say](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0038-count-and-say) |
 | [0224-basic-calculator](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3805-maximize-active-section-with-trade-i) |
