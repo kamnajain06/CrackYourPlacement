@@ -110,6 +110,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1813-maximum-erasure-value) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2478-longest-nice-subarray](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -146,6 +147,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0560-subarray-sum-equals-k](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2249-count-the-hidden-sequences](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Recursion
@@ -216,6 +218,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0424-longest-repeating-character-replacement](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Backtracking
 |  |
@@ -232,6 +235,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0729-my-calendar-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2280-count-good-triplets-in-an-array) |
 | [2690-house-robber-iv](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
