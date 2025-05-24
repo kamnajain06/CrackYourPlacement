@@ -39,6 +39,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0790-global-and-local-inversions](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0790-global-and-local-inversions) |
 | [0797-rabbits-in-forest](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
+| [0966-binary-subarrays-with-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0967-minimum-falling-path-sum) |
 | [1552-build-an-array-with-stack-operations](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1552-build-an-array-with-stack-operations) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -78,6 +79,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0560-subarray-sum-equals-k](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
+| [0966-binary-subarrays-with-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [1500-count-largest-group](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1500-count-largest-group) |
 | [1813-maximum-erasure-value](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1813-maximum-erasure-value) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
@@ -107,6 +109,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1813-maximum-erasure-value) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
@@ -147,6 +150,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0560-subarray-sum-equals-k](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
+| [0966-binary-subarrays-with-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2249-count-the-hidden-sequences](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
