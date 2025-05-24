@@ -45,6 +45,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [1656-count-good-triplets](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1813-maximum-erasure-value) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2249-count-the-hidden-sequences](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2262-solving-questions-with-brainpower) |
@@ -79,6 +80,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0797-rabbits-in-forest](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1500-count-largest-group) |
 | [1813-maximum-erasure-value](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1813-maximum-erasure-value) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -107,6 +109,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0713-subarray-product-less-than-k](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1813-maximum-erasure-value) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2478-longest-nice-subarray](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -228,6 +231,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0713-subarray-product-less-than-k](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2280-count-good-triplets-in-an-array) |
 | [2690-house-robber-iv](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
