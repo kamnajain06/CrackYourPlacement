@@ -87,6 +87,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [1500-count-largest-group](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1500-count-largest-group) |
 | [1813-maximum-erasure-value](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1813-maximum-erasure-value) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -232,6 +233,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0768-partition-labels](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Backtracking
 |  |
