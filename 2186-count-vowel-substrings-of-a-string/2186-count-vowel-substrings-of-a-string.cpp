@@ -24,9 +24,10 @@ public:
             v.push_back({start, end});
         }
         int cnt = 0;
-        for(auto it : v){
+        for(auto it : v){ 
             i = it.first;
             int end = it.second;
+            if(end-i+1 < 5) continue;
             unordered_map<char,int> mpp;
             for(int j = i; j<=end; j++){
                 mpp[word[j]]++;
@@ -36,8 +37,7 @@ public:
                     if(mpp[word[i]] == 0) mpp.erase(word[i]);
                     i++;
                 }
-            }
-            cout<<i<<","<<end<<endl;
+            } //O(2m)
         }
         return cnt;
     }
