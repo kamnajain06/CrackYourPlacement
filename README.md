@@ -42,6 +42,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0966-binary-subarrays-with-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0967-minimum-falling-path-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1034-subarrays-with-k-different-integers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
 | [1552-build-an-array-with-stack-operations](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1552-build-an-array-with-stack-operations) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1656-count-good-triplets](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1656-count-good-triplets) |
@@ -82,6 +83,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0797-rabbits-in-forest](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 | [0966-binary-subarrays-with-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1034-subarrays-with-k-different-integers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1500-count-largest-group) |
 | [1813-maximum-erasure-value](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1813-maximum-erasure-value) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
@@ -114,6 +116,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0713-subarray-product-less-than-k](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1034-subarrays-with-k-different-integers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1813-maximum-erasure-value) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
@@ -134,6 +137,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0368-largest-divisible-subset](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0368-largest-divisible-subset) |
 | [0790-global-and-local-inversions](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0790-global-and-local-inversions) |
 | [0797-rabbits-in-forest](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
+| [1370-count-number-of-nice-subarrays](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2050-count-good-numbers) |
@@ -155,6 +159,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0713-subarray-product-less-than-k](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2249-count-the-hidden-sequences](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
