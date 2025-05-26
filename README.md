@@ -74,6 +74,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0229-majority-element-ii) |
@@ -113,6 +114,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
@@ -227,6 +229,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | ------- |
 | [0020-valid-parentheses](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0038-count-and-say) |
+| [0076-minimum-window-substring](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
