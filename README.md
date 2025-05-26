@@ -132,6 +132,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | ------- |
 | [0029-divide-two-integers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0231-power-of-two) |
@@ -188,6 +189,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0368-largest-divisible-subset) |
@@ -372,4 +374,8 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | ------- |
 | [0054-spiral-matrix](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [1552-build-an-array-with-stack-operations](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1552-build-an-array-with-stack-operations) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
