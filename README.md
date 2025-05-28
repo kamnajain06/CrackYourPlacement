@@ -135,6 +135,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | ------- |
 | [0029-divide-two-integers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
@@ -192,6 +193,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
@@ -349,6 +351,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
