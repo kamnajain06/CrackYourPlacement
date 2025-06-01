@@ -1,68 +1,59 @@
 class Solution {
 public:
-    bool isValid(int row, int col, int rows, int cols){
-        if(row < 0 || col < 0 || row >= rows || col >= cols) return false;
-        return true;
-    }
-    int fun(int row, int col,  vector<vector<int>>& matrix, int rows, int cols, vector<vector<int>> &dp){
-        if(!isValid(row, col, rows, cols)) return INT_MAX;
-        if(row == rows-1) return matrix[row][col];
+    // int f(int i, int j, vector<vector<int>>& matrix, int n, vector<vector<int>> &dp){
+    //     if(i >= n || j >= n || j < 0) return 1e9;
+    //     if(i == n-1) return matrix[i][j];
 
-        if(dp[row][col] != -1) return dp[row][col];
+    //     if(dp[i][j] != -1) return dp[i][j];
 
-        int op1 = fun(row+1, col, matrix, rows, cols, dp);
-        int op2 = fun(row+1, col-1, matrix, rows, cols, dp);
-        int op3 = fun(row+1, col+1, matrix, rows, cols, dp);
-
-        return dp[row][col] = matrix[row][col] + min({op1, op2, op3});
-    }
+    //     return dp[i][j] = matrix[i][j] + min({f(i+1, j, matrix, n, dp), f(i+1, j+1, matrix, n, dp) , f(i+1, j-1, matrix, n, dp)});
+    // }
     int minFallingPathSum(vector<vector<int>>& matrix) {
-        int rows = matrix.size();
-        int cols = matrix[0].size();
+        int n = matrix.size();
+        int mini = INT_MAX;
 
-        // vector<vector<int>> dp(rows, vector<int> (cols, -1));
-        // int mini = INT_MAX;
-        // for(int col = 0; col < cols; col++){
-        //     mini = min(mini, fun(0, col, matrix, rows, cols, dp));
+        // vector<vector<int>> dp(n, vector<int> (n, -1));
+        // for(int i = 0; i<n; i++){
+        //     mini = min(f(0, i, matrix, n, dp), mini);
         // }
         // return mini;
 
-        // vector<vector<int>> dp(rows, vector<int> (cols, 0));
-        // for(int col = 0; col<cols; col++){
-        //     dp[0][col] = matrix[0][col];
-        // }
-        // for(int row = 1; row < rows; row++){
-        //     for(int col = 0; col < cols; col++){
-        //         int op1 = dp[row-1][col];
-        //         int op2 = col-1 >= 0 ? dp[row-1][col-1] : INT_MAX;
-        //         int op3 = col+1 < cols ? dp[row-1][col+1] : INT_MAX;
-        //         dp[row][col] = matrix[row][col] + min({op1, op2, op3});
+
+        // vector<vector<int>> dp(n, vector<int> (n, 0));
+        // dp[0] = matrix[0];
+
+        // for(int i = 1; i<n; i++){
+        //     for(int j = 0; j<n; j++){
+        //         int val2 = (j + 1 < n ? dp[i-1][j+1] : 1e9);
+        //         int val3 = ( j - 1 >= 0 ? dp[i-1][j-1] : 1e9);
+        //         dp[i][j] = matrix[i][j] + min({dp[i-1][j], val2 , val3});
         //     }
         // }
-        // int mini = INT_MAX;
-        // for(int col = 0; col < cols; col++){
-        //     mini = min(mini, dp[rows-1][col]);
+
+        // for(int i = 0; i<n; i++){
+        //     mini = min(dp[n-1][i], mini);
         // }
+
         // return mini;
 
-        vector<int> dp(cols, 0);
-        for(int col = 0; col<cols; col++){
-            dp[col] = matrix[0][col];
-        }
-        for(int row = 1; row < rows; row++){
-            vector<int> temp(cols, 0);
-            for(int col = 0; col < cols; col++){
-                int op1 = dp[col];
-                int op2 = col-1 >= 0 ? dp[col-1] : INT_MAX;
-                int op3 = col+1 < cols ? dp[col+1] : INT_MAX;
-                temp[col] = matrix[row][col] + min({op1, op2, op3});
+
+        vector<int> dp(n, 0);
+        dp = matrix[0];
+
+        for(int i = 1; i<n; i++){
+            vector<int> curr(n, 0);
+            for(int j = 0; j<n; j++){
+                int val2 = (j + 1 < n ? dp[j+1] : 1e9);
+                int val3 = ( j - 1 >= 0 ? dp[j-1] : 1e9);
+                curr[j] = matrix[i][j] + min({dp[j], val2 , val3});
             }
-            dp = temp;
+            dp = curr;
         }
-        int mini = INT_MAX;
-        for(int col = 0; col < cols; col++){
-            mini = min(mini, dp[col]);
+
+        for(int i = 0; i<n; i++){
+            mini = min(dp[i], mini);
         }
+
         return mini;
     }
 };
