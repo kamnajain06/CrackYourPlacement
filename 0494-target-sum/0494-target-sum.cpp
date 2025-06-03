@@ -1,51 +1,45 @@
 class Solution {
 public:
-//     int fun(int ind , int target ,vector<int>& nums, int n){
-//         if(ind == n){
-//             if(target == 0) return 1;
-//             else return 0;
-//         }
+    // int f(int i , int n, vector<int> &nums, int sum, int target){
+    //     if(i >= n){
+    //         if(sum == target){
+    //             return 1;
+    //         }
+    //         return 0;
+    //     }
 
-//         return fun(ind+1, target - nums[ind], nums, n) + fun(ind+1, target + nums[ind], nums, n);
-//     }
+    //     int add =  f(i+1, n, nums, sum-nums[i], target) ;
+    //     int sub =  f(i+1, n, nums, sum+nums[i], target) ;
+
+    //     return add + sub;
+    // }
     int findTargetSumWays(vector<int>& nums, int target) {
-        // int n = nums.size();
-        // return fun(0, target, nums, n);
         int n = nums.size();
-        int sum = accumulate(nums.begin(), nums.end(), 0);
         
-        int cnt = 0;
-        sort(nums.begin(), nums.end());
-        for(int i=0; i<n; i++){
-            if(nums[i] == 0) cnt++;
-            else break;
-        }
-        
-        vector<int> dp(sum+1, 0);
-        dp[0] = 1;
-        if(cnt < n && nums[cnt] <= sum){
-            dp[nums[cnt]] = 1;
-        }
-        for(int i=cnt+1; i<n; i++){
-            vector<int> temp(sum+1, 0);
-            temp[0] = 1;
-            for(int j=1; j<=sum; j++){
-                int pick = nums[i] <= j  ? dp[j - nums[i]] : 0;
-                int skip = dp[j];
-                temp[j] = pick + skip;
-            }
-            dp = temp;
-        }
+        // return f(0, n, nums, 0, target); 
 
-        int ans = 0;
-        int i = 0;
-        if(sum%2 == 0) i = sum/2;
-        else i = (sum+1)/2;
-        for(; i <= sum; i++){
-            if(dp[i]){
-                if((2*i-sum) == target || -(2*i-sum) == target ) ans+=dp[i];
+        // 2nd way improve it by s1-s2 = D;
+        int totalSum = accumulate(nums.begin(), nums.end(), 0);
+        int goal = (target + totalSum )/2;
+
+        if((target + totalSum)%2 != 0 || target+totalSum < 0) return 0;
+
+        vector<int> dp(goal + 1, 0);
+        dp[0] = 1;
+        if(nums[0] <= goal) dp[nums[0]] += 1;
+
+        for(int i=1; i<n; i++){
+            vector<int> curr(goal + 1, 0);
+            for(int k = 0; k<= goal; k++){
+                int take = k-nums[i] >= 0 ?dp[k-nums[i]] : 0;
+                int skip = dp[k];
+                
+                curr[k] = take + skip;
             }
+            dp = curr;
         }
-        return (pow(2,cnt))*ans;
+        return dp[goal];
+
+        
     }
 };
