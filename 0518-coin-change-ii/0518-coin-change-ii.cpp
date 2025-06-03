@@ -1,37 +1,54 @@
 class Solution {
 public:
-//     int fun(int ind, int amount, vector<int> &coins, int n, vector<vector<int>> &dp){
-//         if(amount == 0) return 1;
-//         if(ind >= n || amount < 0) return 0;
+    // int f(int i, int n, int sum, int &amount, vector<int> &coins, vector<vector<int>> &dp){
+    //     if(i >= n){
+    //         if(sum == amount) return 1;
+    //         return 0;
+    //     }
+    //     if(sum == amount) return 1;
+    //     if(sum > amount) return 0;
 
-//         if(dp[ind][amount] != -1) return dp[ind][amount];
+    //     if(dp[i][sum] != -1) return dp[i][sum];
 
-//         int pick = fun(ind, amount - coins[ind], coins, n, dp);
-//         int skip = fun(ind+1, amount, coins, n, dp);
+    //     int pick = f(i, n, sum + coins[i], amount, coins, dp);
+    //     int skip = f(i+1, n, sum, amount, coins, dp);
 
-//         return dp[ind][amount] = pick + skip;
-//     }
+    //     return dp[i][sum] = pick + skip;
+    // }
     int change(int amount, vector<int>& coins) {
         int n = coins.size();
-        // // MEMOIZATION
         // vector<vector<int>> dp(n, vector<int> (amount+1, -1));
-        // return fun(0, amount, coins, n, dp);
+        // return f(0, n, 0, amount, coins, dp);
 
-        // TABULATION
-        // vector<vector<long long>> dp(n, vector<long long> (amount+1, 0));
+        // vector<vector<int>> dp(n+1, vector<int> (amount+1, 0));
+        // dp[n][amount] = 1;
+
+        // for(int i=n-1; i>=0; i--){
+        //     for(int j = amount; j>=0; j--){
+        //         int pick = j + coins[i] <= amount ? dp[i][j + coins[i]] : 0;
+        //         int skip = dp[i+1][j];
+
+        //         dp[i][j] = pick + skip;
+        //     }
+        // }
+
+        // return dp[0][0];
+
+
         vector<long long> dp(amount+1, 0);
-        dp[0] = 1;
-        
-        for(int row=0; row<n; row++){
-            vector<long long> temp(amount+1, 0);
-            temp[0] = 1;
-            for(int sum=1; sum<= amount; sum++){
-                int pick = sum >= coins[row] ? temp[sum - coins[row]] : 0;
-                int skip = (row > 0) ? dp[sum] : 0;
-                temp[sum] = (long long) pick +  (long long)skip;
+        dp[amount] = 1;
+
+        for(int i=n-1; i>=0; i--){
+            vector<long long> curr(amount+1, 0);
+            for(int j = amount; j>=0; j--){
+                int pick = j + coins[i] <= amount ? curr[j + coins[i]] : 0;
+                int skip = dp[j];
+
+                curr[j] = (long long) pick +  (long long)skip;
             }
-            dp = temp;
+            dp = curr;
         }
-        return dp[amount];
+
+        return dp[0];
     }
 };
