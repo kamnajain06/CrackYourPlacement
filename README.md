@@ -40,6 +40,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0416-partition-equal-subset-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0729-my-calendar-i) |
@@ -210,6 +211,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0368-largest-divisible-subset](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0967-minimum-falling-path-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -263,6 +265,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | ------- |
 | [0046-permutations](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0047-permutations-ii) |
+| [0494-target-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0494-target-sum) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Binary Search
