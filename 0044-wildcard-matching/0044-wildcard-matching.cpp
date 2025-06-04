@@ -35,24 +35,48 @@ public:
         // vector<vector<int>> dp(n1, vector<int> (n2, -1));
         // return f(0, 0, n1, n2, s, p, dp);
 
-        vector<vector<bool>> dp(n1+1, vector<bool>(n2+1, false));
-        dp[n1][n2] = true;
-        for(int j = n2-1; j >=0; j--){
-            if (p[j] == '*'){
-                dp[n1][j] = true;
-            }else break;
+        // vector<vector<bool>> dp(n1+1, vector<bool>(n2+1, false));
+        // dp[n1][n2] = true;
+        // for(int j = n2-1; j >=0; j--){
+        //     if (p[j] == '*'){
+        //         dp[n1][j] = true;
+        //     }else break;
+        // }
+        // for (int i = n1-1; i >= 0; i--) {
+        //     for (int j = n2-1; j >= 0; j--) {
+        //         bool val = false;
+        //         if (s[i] == p[j] || p[j] == '?') {
+        //             val = val || dp[i + 1][j + 1];
+        //         } else if (p[j] == '*') {
+        //             val = val || dp[i + 1][j] || dp[i + 1][j + 1] || dp[i][j
+        //             + 1];
+        //         }
+        //         dp[i][j] = val;
+        //     }
+        // }
+        // return dp[0][0];
+
+        vector<bool> dp(n2 + 1, false);
+        dp[n2] = true;
+        for (int j = n2 - 1; j >= 0; j--) {
+            if (p[j] == '*') {
+                dp[j] = true;
+            } else
+                break;
         }
-        for (int i = n1-1; i >= 0; i--) {
-            for (int j = n2-1; j >= 0; j--) {
+        for (int i = n1 - 1; i >= 0; i--) {
+            vector<bool> curr(n2 + 1, false);
+            for (int j = n2 - 1; j >= 0; j--) {
                 bool val = false;
                 if (s[i] == p[j] || p[j] == '?') {
-                    val = val || dp[i + 1][j + 1];
+                    val = val || dp[j + 1];
                 } else if (p[j] == '*') {
-                    val = val || dp[i + 1][j] || dp[i + 1][j + 1] || dp[i][j + 1];
+                    val = val || dp[j] || dp[j + 1] || curr[j + 1];
                 }
-                dp[i][j] = val;
+                curr[j] = val;
             }
+            dp = curr;
         }
-        return dp[0][0];
+        return dp[0];
     }
 };
