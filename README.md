@@ -181,6 +181,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0044-wildcard-matching) |
 | [0224-basic-calculator](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0326-power-of-three) |
@@ -200,6 +201,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
@@ -254,6 +256,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | ------- |
 | [0020-valid-parentheses](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
@@ -357,6 +360,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
