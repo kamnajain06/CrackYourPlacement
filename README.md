@@ -207,6 +207,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0063-unique-paths-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
@@ -262,6 +263,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0038-count-and-say](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0224-basic-calculator](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
