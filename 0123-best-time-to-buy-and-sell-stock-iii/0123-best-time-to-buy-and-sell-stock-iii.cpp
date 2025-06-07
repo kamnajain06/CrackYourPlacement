@@ -1,37 +1,44 @@
 class Solution {
 public:
-    // int fun(int i, vector<int>& prices, int n, int maxTrans, int canBuy) {
-    //     if (i >= n || maxTrans <= 0)
-    //         return 0;
-
-    //     if (canBuy) {
-    //         return max(-prices[i] + fun(i + 1, prices, n, maxTrans, 0),
-    //                    fun(i + 1, prices, n, maxTrans, 1));
+    // int f(int i, int buy, vector<int> &prices, int n, int cnt, vector<vector<vector<int>>> &dp){
+    //     if(cnt > 2) return 0;
+    //     if(i >= n) return 0;
+    //     if(dp[i][buy][cnt] != -1) return dp[i][buy][cnt];
+    //     int op1 = f(i+1, buy, prices, n, cnt, dp);
+    //     if(buy){
+    //         return dp[i][buy][cnt] = max(-prices[i] + f(i+1, buy-1, prices, n, cnt, dp) , op1);
     //     }
-    //     return max(prices[i] + fun(i + 1, prices, n, maxTrans - 1, 1),
-    //                fun(i + 1, prices, n, maxTrans, 0));
+    //     return dp[i][buy][cnt] = max(prices[i] + f(i+1, buy + 1, prices, n, cnt + 1, dp) , op1);
     // }
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
-        // return fun(0, prices, n, 2, 1);
-        // vector<vector<vector<int>>> dp(
-        //     n+1, vector<vector<int>>(2, vector<int>(3, 0)));
-        vector<vector<int>> dp(2, vector<int>(3, 0));
-        vector<vector<int>> temp(2, vector<int>(3, 0));
-        for (int i = n-1; i >= 0; i--) {
-            for (int j = 0; j < 2; j++) {
-                for (int k = 1; k < 3; k++) {
-                    if (j == 0) {
-                        temp[j][k] = max(prices[i] + dp[1][k - 1],
-                                              dp[0][k]);
-                    } else {
-                        temp[j][k] =
-                            max(-prices[i] + dp[0][k], dp[1][k]);
-                    }
+        // vector<vector<vector<int>>> dp(n, vector<vector<int>> (2, vector<int> (3, -1)));
+        // return f(0, 1, prices, n, 1, dp);
+
+        // vector<vector<vector<int>>> dp(n+1, vector<vector<int>> (2, vector<int> (4, 0)));
+        // for(int i= n-1; i>=0; i--){
+        //     for(int j = 0; j<=1 ; j++){
+        //         for(int k=0; k<=2; k++){
+        //             int op1 = dp[i+1][j][k];
+        //             if(j) dp[i][j][k] = max(-prices[i] + dp[i+1][j-1][k], op1);
+        //             else dp[i][j][k] = max(prices[i] + dp[i+1][j+1][k+1], op1);
+        //         }
+        //     }
+        // }
+        // return dp[0][1][1];
+
+        vector<vector<int>> dp(2, vector<int> (4, 0));
+        for(int i= n-1; i>=0; i--){
+            vector<vector<int>> curr(2, vector<int> (4, 0));
+            for(int j = 0; j<=1 ; j++){
+                for(int k=0; k<=2; k++){
+                    int op1 = dp[j][k];
+                    if(j) curr[j][k] = max(-prices[i] + dp[j-1][k], op1);
+                    else curr[j][k] = max(prices[i] + dp[j+1][k+1], op1);
                 }
-                dp = temp;
             }
+            dp = curr;
         }
-        return temp[1][2];
+        return dp[1][1];
     }
 };
