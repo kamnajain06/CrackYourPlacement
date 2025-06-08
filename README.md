@@ -56,6 +56,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0967-minimum-falling-path-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0967-minimum-falling-path-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1552-build-an-array-with-stack-operations](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1552-build-an-array-with-stack-operations) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1656-count-good-triplets](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1656-count-good-triplets) |
@@ -133,6 +134,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0966-binary-subarrays-with-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1813-maximum-erasure-value) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
@@ -168,6 +170,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
@@ -326,6 +329,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0493-reverse-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2280-count-good-triplets-in-an-array) |
 ## Matrix
 |  |
@@ -359,6 +363,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2681-put-marbles-in-bags) |
 ## Stack
@@ -428,4 +433,8 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0070-climbing-stairs) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
