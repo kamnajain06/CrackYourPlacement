@@ -30,38 +30,77 @@ public:
         // vector<vector<vector<long long>>> dp(n+1, vector<vector<long long>>
         // (3, vector<long long> (k+1, -1))); return f(0, 0, n, prices, k, dp);
 
-        vector<vector<vector<long long>>> dp(
-            n + 1, vector<vector<long long>>(3, vector<long long>(k+1, -1e9)));
-        for (int i = n; i >= 0; i--) {
-            for (int state = 0; state < 3; state++) {
-                dp[i][state][0] = 0;
-            }
+        // vector<vector<vector<long long>>> dp(
+        //     n + 1, vector<vector<long long>>(3, vector<long long>(k+1,
+        //     -1e9)));
+        // for (int i = n; i >= 0; i--) {
+        //     for (int state = 0; state < 3; state++) {
+        //         dp[i][state][0] = 0;
+        //     }
+        // }
+        // for (int i = n - 1; i >= 0; i--) {
+        //     for (int j = 1; j <= k; j++) {
+        //         for (int state = 0; state <= 2; state++) {
+        //             long long profit = 0;
+        //             if (state == 0) {
+        //                 long long idle = dp[i + 1][0][j];
+        //                 long long buy = -prices[i] + dp[i + 1][2][j];
+        //                 long long sell = prices[i] + dp[i + 1][1][j];
+        //                 profit = max({idle, buy, sell});
+        //             } else if (state == 1) {
+        //                 long long buy = -prices[i] + dp[i + 1][0][j - 1];
+        //                 long long notBuy = dp[i + 1][1][j];
+        //                 profit = max(buy, notBuy);
+        //             } else {
+        //                 long long sell = prices[i] + dp[i + 1][0][j - 1];
+        //                 long long notSell = dp[i + 1][2][j];
+        //                 profit = max(sell, notSell);
+        //             }
+        //             dp[i][state][j] = profit;
+        //         }
+        //     }
+        // }
+        // long long ans = 0;
+        // for(int j=0; j<=k; j++){
+        //     ans = max(ans, dp[0][0][j]);
+        // }
+        // return ans;
+
+        vector<vector<long long>> dp(3, vector<long long>(k + 1, -1e9));
+        for (int state = 0; state < 3; state++) {
+            dp[state][0] = 0;
         }
         for (int i = n - 1; i >= 0; i--) {
-            for (int j = 1; j <= k; j++) {
+            vector<vector<long long>> curr(3, vector<long long>(k + 1, -1e9));
+            for (int j = 0; j <= k; j++) {
                 for (int state = 0; state <= 2; state++) {
+                    if(j == 0 ) {
+                        curr[state][0] = 0;
+                        continue;
+                    }
                     long long profit = 0;
                     if (state == 0) {
-                        long long idle = dp[i + 1][0][j];
-                        long long buy = -prices[i] + dp[i + 1][2][j];
-                        long long sell = prices[i] + dp[i + 1][1][j];
+                        long long idle = dp[0][j];
+                        long long buy = -prices[i] + dp[2][j];
+                        long long sell = prices[i] + dp[1][j];
                         profit = max({idle, buy, sell});
                     } else if (state == 1) {
-                        long long buy = -prices[i] + dp[i + 1][0][j - 1];
-                        long long notBuy = dp[i + 1][1][j];
+                        long long buy = -prices[i] + dp[0][j - 1];
+                        long long notBuy = dp[1][j];
                         profit = max(buy, notBuy);
                     } else {
-                        long long sell = prices[i] + dp[i + 1][0][j - 1];
-                        long long notSell = dp[i + 1][2][j];
+                        long long sell = prices[i] + dp[0][j - 1];
+                        long long notSell = dp[2][j];
                         profit = max(sell, notSell);
                     }
-                    dp[i][state][j] = profit;
+                    curr[state][j] = profit;
                 }
             }
+            dp = curr;
         }
         long long ans = 0;
-        for(int j=0; j<=k; j++){
-            ans = max(ans, dp[0][0][j]);
+        for (int j = 0; j <= k; j++) {
+            ans = max(ans, dp[0][j]);
         }
         return ans;
     }
