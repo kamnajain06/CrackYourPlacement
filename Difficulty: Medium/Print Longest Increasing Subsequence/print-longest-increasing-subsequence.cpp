@@ -1,64 +1,31 @@
-//{ Driver Code Starts
-#include <bits/stdc++.h>
-using namespace std;
-
-
-// } Driver Code Ends
 class Solution {
   public:
-    vector<int> longestIncreasingSubsequence(int n, vector<int>& arr) {
-        vector<int> dp(n, 1);
-        vector<int> backtrack(n);
-        for(int i=0; i<n; i++){
-            backtrack[i] = i;
-        }
+    vector<int> getLIS(vector<int>& arr) {
+        int n = arr.size();
+        
+        vector<int> dp(n, 1), backtrack(n, 0);
+        iota(backtrack.begin(), backtrack.end(), 0);
         
         int maxInd = 0;
-        int maxiLen = 1;
-        for(int i=0; i<n; i++){
-            for(int prev=0; prev<i; prev++){
-                if(arr[i] > arr[prev] && 1+dp[prev] > dp[i]){
-                    dp[i] = 1 + dp[prev];
-                    backtrack[i] = prev;
+        for(int i = 1; i<n; i++){
+            for(int j = 0; j<i ; j++){
+                if(arr[i] > arr[j]){
+                    if(dp[i] < 1+dp[j]){
+                        dp[i] = 1 + dp[j];
+                        backtrack[i] = j;
+                    }
                 }
+                if(dp[i] > dp[maxInd]) maxInd = i;
             }
-            maxiLen = max(maxiLen, dp[i]);
-            if(dp[i] > dp[maxInd]) maxInd = i;
         }
-        vector<int> ans(maxiLen);
-        ans[0] = arr[maxInd];
-        int i=1;
+        vector<int> v;
         int ind = maxInd;
         while(backtrack[ind] != ind){
-            ans[i] = arr[backtrack[ind]];
+            v.push_back(arr[ind]);
             ind = backtrack[ind];
-            i++;
         }
-        reverse(ans.begin(), ans.end());
-        return ans;
+        v.push_back(arr[ind]);
+        reverse(v.begin(), v.end());
+        return v;
     }
 };
-
-//{ Driver Code Starts.
-
-int main() {
-    int t;
-    cin >> t;
-    while (t--) {
-        int N;
-        cin >> N;
-        vector<int> arr(N);
-        for (int i = 0; i < N; i++) {
-            cin >> arr[i];
-        }
-        Solution obj;
-        vector<int> res = obj.longestIncreasingSubsequence(N, arr);
-        for (auto x : res)
-            cout << x << " ";
-        cout << "\n";
-    
-cout << "~" << "\n";
-}
-    return 0;
-}
-// } Driver Code Ends
