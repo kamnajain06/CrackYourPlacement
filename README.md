@@ -222,6 +222,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0118-pascals-triangle](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
@@ -281,6 +282,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0072-edit-distance](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0224-basic-calculator](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
@@ -298,6 +300,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | ------- |
 | [0046-permutations](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0047-permutations-ii) |
+| [0131-palindrome-partitioning](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0494-target-sum) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1993-sum-of-all-subset-xor-totals) |
