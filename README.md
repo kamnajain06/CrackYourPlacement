@@ -30,6 +30,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0128-longest-consecutive-sequence](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -203,6 +204,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
@@ -355,6 +357,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0063-unique-paths-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0967-minimum-falling-path-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0967-minimum-falling-path-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -375,6 +378,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0322-coin-change) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Heap (Priority Queue)
@@ -456,4 +460,8 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
