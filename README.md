@@ -65,6 +65,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1656-count-good-triplets](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1813-maximum-erasure-value) |
+| [1876-map-of-highest-peak](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1876-map-of-highest-peak) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -361,6 +362,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0073-set-matrix-zeroes](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0967-minimum-falling-path-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0967-minimum-falling-path-sum) |
+| [1876-map-of-highest-peak](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1876-map-of-highest-peak) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Two Pointers
@@ -382,6 +384,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | ------- |
 | [0200-number-of-islands](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0322-coin-change) |
+| [1876-map-of-highest-peak](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1876-map-of-highest-peak) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Heap (Priority Queue)
 |  |
