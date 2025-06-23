@@ -90,6 +90,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3888-maximize-subarray-gcd-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3888-maximize-subarray-gcd-score) |
 ## Hash Table
 |  |
@@ -127,6 +128,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [2478-longest-nice-subarray](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Counting
 |  |
 | ------- |
@@ -173,6 +175,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [2998-count-symmetric-integers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3001-apply-operations-to-maximize-score) |
 | [3548-find-the-count-of-good-integers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3548-find-the-count-of-good-integers) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3888-maximize-subarray-gcd-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3888-maximize-subarray-gcd-score) |
 ## Queue
 |  |
@@ -436,6 +439,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [2998-count-symmetric-integers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3548-find-the-count-of-good-integers) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3888-maximize-subarray-gcd-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3888-maximize-subarray-gcd-score) |
 ## Divide and Conquer
 |  |
