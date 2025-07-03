@@ -53,6 +53,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0747-min-cost-climbing-stairs) |
 | [0790-global-and-local-inversions](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0790-global-and-local-inversions) |
+| [0794-swim-in-rising-water](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 | [0966-binary-subarrays-with-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0967-minimum-falling-path-sum) |
@@ -211,6 +212,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [0794-swim-in-rising-water](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -326,6 +328,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0713-subarray-product-less-than-k](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
+| [0794-swim-in-rising-water](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -367,6 +370,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0064-minimum-path-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [0794-swim-in-rising-water](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0967-minimum-falling-path-sum) |
 | [1753-path-with-minimum-effort](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1876-map-of-highest-peak) |
@@ -391,12 +395,14 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | ------- |
 | [0200-number-of-islands](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0322-coin-change) |
+| [0794-swim-in-rising-water](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1876-map-of-highest-peak) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1753-path-with-minimum-effort](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -480,5 +486,6 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [0794-swim-in-rising-water](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
