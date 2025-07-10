@@ -55,6 +55,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0790-global-and-local-inversions](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0790-global-and-local-inversions) |
 | [0794-swim-in-rising-water](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
+| [0817-design-hashmap](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0817-design-hashmap) |
 | [0966-binary-subarrays-with-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0967-minimum-falling-path-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1034-subarrays-with-k-different-integers) |
@@ -106,6 +107,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0560-subarray-sum-equals-k](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
+| [0817-design-hashmap](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0817-design-hashmap) |
 | [0966-binary-subarrays-with-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1129-longest-string-chain) |
@@ -345,6 +347,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0307-range-sum-query-mutable](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
+| [0817-design-hashmap](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0817-design-hashmap) |
 ## Segment Tree
 |  |
 | ------- |
@@ -488,4 +491,12 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0200-number-of-islands](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0794-swim-in-rising-water](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
+## Linked List
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0817-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
