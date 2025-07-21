@@ -502,5 +502,6 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0182-duplicate-emails) |
 | [0627-swap-salary](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
