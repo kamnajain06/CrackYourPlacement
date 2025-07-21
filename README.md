@@ -499,4 +499,8 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0817-design-hashmap) |
+## Database
+|  |
+| ------- |
+| [0627-swap-salary](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
