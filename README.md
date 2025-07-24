@@ -170,6 +170,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0326-power-of-three](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0368-largest-divisible-subset) |
+| [0445-add-two-numbers-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0790-global-and-local-inversions](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0790-global-and-local-inversions) |
 | [0797-rabbits-in-forest](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
@@ -420,6 +421,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0225-implement-stack-using-queues](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
+| [0445-add-two-numbers-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [1552-build-an-array-with-stack-operations](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1552-build-an-array-with-stack-operations) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3001-apply-operations-to-maximize-score) |
 ## Greedy
@@ -496,6 +498,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
+| [0445-add-two-numbers-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0817-design-hashmap](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
