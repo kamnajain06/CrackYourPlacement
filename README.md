@@ -101,6 +101,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0073-set-matrix-zeroes](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
@@ -494,6 +495,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
 | [0817-design-hashmap](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
