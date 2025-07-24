@@ -52,6 +52,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0729-my-calendar-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0747-min-cost-climbing-stairs) |
+| [0780-max-chunks-to-make-sorted](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [0790-global-and-local-inversions](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0790-global-and-local-inversions) |
 | [0794-swim-in-rising-water](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
@@ -283,6 +284,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0229-majority-element-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0455-assign-cookies) |
+| [0780-max-chunks-to-make-sorted](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [1129-longest-string-chain](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1129-longest-string-chain) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -422,6 +424,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0227-basic-calculator-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [1552-build-an-array-with-stack-operations](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1552-build-an-array-with-stack-operations) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3001-apply-operations-to-maximize-score) |
 ## Greedy
@@ -430,6 +433,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0044-wildcard-matching](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0768-partition-labels) |
+| [0780-max-chunks-to-make-sorted](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 | [2681-put-marbles-in-bags](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3001-apply-operations-to-maximize-score) |
@@ -437,6 +441,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3001-apply-operations-to-maximize-score) |
 ## Number Theory
 |  |
