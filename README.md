@@ -95,6 +95,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3888-maximize-subarray-gcd-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3888-maximize-subarray-gcd-score) |
 ## Hash Table
@@ -124,6 +125,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [2888-minimum-index-of-a-valid-split](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3548-find-the-count-of-good-integers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3548-find-the-count-of-good-integers) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -442,6 +444,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [2681-put-marbles-in-bags](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Monotonic Stack
 |  |
 | ------- |
