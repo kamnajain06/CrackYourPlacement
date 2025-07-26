@@ -94,6 +94,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -185,6 +186,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2998-count-symmetric-integers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3001-apply-operations-to-maximize-score) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3548-find-the-count-of-good-integers) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3888-maximize-subarray-gcd-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3888-maximize-subarray-gcd-score) |
@@ -208,6 +210,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2249-count-the-hidden-sequences](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Recursion
 |  |
 | ------- |
@@ -268,6 +271,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2262-solving-questions-with-brainpower) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 ## Topological Sort
 |  |
@@ -466,6 +470,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | ------- |
 | [0062-unique-paths](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
