@@ -42,6 +42,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0322-coin-change](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0493-reverse-pairs) |
@@ -198,6 +199,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
@@ -252,6 +254,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0322-coin-change](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0518-coin-change-ii) |
@@ -334,6 +337,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0729-my-calendar-i) |
@@ -436,6 +440,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0044-wildcard-matching) |
+| [0410-split-array-largest-sum](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0779-max-chunks-to-make-sorted-ii) |
