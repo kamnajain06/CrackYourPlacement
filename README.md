@@ -516,6 +516,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0794-swim-in-rising-water](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 ## Linked List
@@ -538,15 +539,18 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
