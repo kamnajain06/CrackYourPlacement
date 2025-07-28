@@ -11,24 +11,16 @@
  */
 class Solution {
 public:
-    bool flag = true;
-    void inorder(TreeNode* root, vector<int> &trav){
-        if(root == NULL) return;
-        inorder(root->left,trav);
-        if(!trav.empty()){
-            int n = trav.size();
-            if(trav[n-1] >= root->val){
-                flag = false;
-                return;
-            }
-        }
-        trav.push_back(root->val);
-        if(flag)inorder(root->right,trav);
-        return;
-    }
+
+    long long val = LLONG_MIN;
     bool isValidBST(TreeNode* root) {
-        vector<int> trav;
-        inorder(root,trav);
-        return flag;
+        if(!root) return true;
+        bool leftValue = isValidBST(root->left);
+        if(root->val <= val) return false;
+        else{
+            val = root->val;
+        }
+        bool rightValue = isValidBST(root->right);
+        return leftValue && rightValue;
     }
 };
