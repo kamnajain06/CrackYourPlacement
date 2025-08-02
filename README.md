@@ -84,6 +84,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2681-put-marbles-in-bags](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -125,6 +126,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [2186-count-vowel-substrings-of-a-string](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2689-rearranging-fruits](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2689-rearranging-fruits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3548-find-the-count-of-good-integers](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3548-find-the-count-of-good-integers) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -301,6 +303,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3001-apply-operations-to-maximize-score) |
@@ -454,6 +457,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0780-max-chunks-to-make-sorted](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 | [2681-put-marbles-in-bags](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2689-rearranging-fruits) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
