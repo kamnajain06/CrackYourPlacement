@@ -99,6 +99,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3888-maximize-subarray-gcd-score](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3888-maximize-subarray-gcd-score) |
 ## Hash Table
@@ -357,6 +358,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [2280-count-good-triplets-in-an-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2280-count-good-triplets-in-an-array) |
 | [2690-house-robber-iv](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
 |  |
 | ------- |
@@ -376,6 +378,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0729-my-calendar-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2280-count-good-triplets-in-an-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -384,6 +387,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [0731-my-calendar-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2280-count-good-triplets-in-an-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -510,6 +514,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | ------- |
 | [0054-spiral-matrix](https://github.com/kamnajain06/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [1552-build-an-array-with-stack-operations](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1552-build-an-array-with-stack-operations) |
+| [3790-fruits-into-baskets-ii](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
 ## Memoization
 |  |
 | ------- |
