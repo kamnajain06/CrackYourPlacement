@@ -122,6 +122,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [1129-longest-string-chain](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1500-count-largest-group) |
+| [1526-html-entity-parser](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1526-html-entity-parser) |
 | [1813-maximum-erasure-value](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1813-maximum-erasure-value) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -330,6 +331,7 @@ Join me on this adventure as I conquer time complexities, manipulate data struct
 | [1250-longest-common-subsequence](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1526-html-entity-parser](https://github.com/kamnajain06/CrackYourPlacement/tree/master/1526-html-entity-parser) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/kamnajain06/CrackYourPlacement/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/kamnajain06/CrackYourPlacement/tree/master/3805-maximize-active-section-with-trade-i) |
